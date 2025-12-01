@@ -1,2 +1,1 @@
-pip install scikit-learn
-pip install ucimlrepo 
+pip install scikit-learn ucimlrepo seaborn matplotlib
